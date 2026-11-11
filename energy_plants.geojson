@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "Talcher TPS",
+        "district": "Angul",
+        "state": "Orissa",
+        "inst_cap": "1000",
+        "type": "coal_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.074,
+          21.0966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "Talcher STPS-II",
+        "district": "Angul",
+        "state": "Orissa",
+        "inst_cap": "2000",
+        "type": "coal_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.074,
+          21.0966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "Ib Valley",
+        "district": "Jharsuguda",
+        "state": "Orissa",
+        "inst_cap": "1740",
+        "type": "coal_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.86,
+          21.6872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "Sterlite TPP",
+        "district": "Jharsuguda",
+        "state": "Orissa",
+        "inst_cap": "2400",
+        "type": "coal_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0404,
+          21.8144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "Kamalanga TPP",
+        "district": "Dhencanal",
+        "state": "Orissa",
+        "inst_cap": "1050",
+        "type": "coal_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.265751,
+          20.863784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "Derang TPP",
+        "district": "Angul",
+        "state": "Orissa",
+        "inst_cap": "1200",
+        "type": "coal_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.986294,
+          21.12608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "Ind Bharat TPP              (Orissa)",
+        "district": "Jharsuguda",
+        "state": "Orissa",
+        "inst_cap": "350",
+        "type": "coal_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.924138,
+          21.671342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "UPPER INDRAVATI",
+        "district": "KALAHANDI",
+        "state": "ORISSA",
+        "inst_cap": "600.000000000000000",
+        "type": "hydro_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8581944444444,
+          19.4270555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "UPPER KOLAB",
+        "district": "KORAPUT",
+        "state": "ORISSA",
+        "inst_cap": "320.000000000000000",
+        "type": "hydro_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.5936388888889,
+          18.8316388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "BALIMELA",
+        "district": "MALKANGIRI",
+        "state": "ORISSA",
+        "inst_cap": "510.000000000000000",
+        "type": "hydro_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0612694444445,
+          18.2141111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "CHIPLIMA",
+        "district": "SAMBALPUR",
+        "state": "ORISSA",
+        "inst_cap": "72.000000000000000",
+        "type": "hydro_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9157222222222,
+          21.35325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "RENGALI",
+        "district": "ANGUL",
+        "state": "ORISSA",
+        "inst_cap": "250.000000000000000",
+        "type": "hydro_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0350583333333,
+          21.2760555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plant_name": "HIRAKUD",
+        "district": "SAMBALPUR",
+        "state": "ORISSA",
+        "inst_cap": "275.500000000000000",
+        "type": "hydro_power_plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8523333333333,
+          21.5162222222222
+        ]
+      }
+    }
+  ]
+}
